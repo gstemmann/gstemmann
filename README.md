@@ -1,5 +1,5 @@
 ### Hi there 👋
-I live in California and I like to push the creativity envelope.
+I've been learning various Programming languages and frameworks for a few years and I looove STEM subjects! I read Science and study Mathematics for fun sometimes :) and I also have extensive experience with Jazz theory!
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ED6A5A)
