@@ -1,4 +1,3 @@
-### Hi there 👋
 I looove STEM subjects! I read Science and study Mathematics for fun sometimes :) and I also have extensive experience with Jazz theory!
 
 I've been learning various Programming languages and frameworks for a few years also.
