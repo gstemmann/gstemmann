@@ -1,4 +1,5 @@
 ### Hi there 👋
+I live in California and I like to push the creativity envelope.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ED6A5A)
