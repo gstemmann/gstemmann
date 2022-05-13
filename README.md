@@ -12,7 +12,7 @@
 />
 
 <a href="https://github.com/gstemmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfymaster&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ED6A5A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstemmann&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=ED6A5A" />
 </a>
 <br/><br/> 
 
